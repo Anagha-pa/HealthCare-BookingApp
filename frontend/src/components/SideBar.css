@@ -1,0 +1,37 @@
+/* SideBar.css */
+.avatar {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.name {
+    font-weight: bold;
+    margin-top: 10px;
+    text-align: center;
+}
+
+.address {
+    margin-top: 5px;
+    text-align: center;
+}
+
+/* Profile.css */
+.row {
+    height: 100vh; /* Set the row to full viewport height */
+}
+
+.left_cont {
+    flex: 1; /* Occupy 1/4th of the row's width */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 20px;
+}
+
+.right_cont {
+    flex: 3; /* Occupy 3/4th of the row's width */
+    padding: 20px;
+}
+
+

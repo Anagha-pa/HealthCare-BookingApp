@@ -1,0 +1,17 @@
+.ap-his{
+    width: 100vw;
+    height: 100vh;
+    /* background: url('../assest/aphis.jpg') no-repeat; */
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+}
+
+
+.tablemargins{
+    margin: 5% 10%;
+    background-color:rgb(144, 195, 240) ;
+}
+.totalp{
+    font-weight: 600;
+}

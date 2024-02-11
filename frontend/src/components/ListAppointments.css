@@ -1,0 +1,16 @@
+.list-ap{
+    width: 100vw;
+    height: 100vh;
+    /* background: url('../assest/listap.jpg') no-repeat; */
+    background-size: cover;
+    background-position: center;
+    position: absolute;
+}
+
+.tablemargin{
+    margin: 5% 10%;
+    background-color:rgb(170, 156, 128) ;
+}
+.totalp{
+    font-weight: 600;
+}

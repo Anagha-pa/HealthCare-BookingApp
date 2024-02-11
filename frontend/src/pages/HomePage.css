@@ -1,0 +1,44 @@
+.home {
+    background-size: cover;
+    background-position: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+    color:black;
+    text-align: center;
+    padding-left: 100px;
+}
+
+
+
+
+.home__buttons {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-top: 40px;
+}
+
+.home__button {
+    background-color: black;
+    color: #F3C0A5;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.home__button:hover {
+    background-color: grey;
+}
+.heading{
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 15px;
+}
+.para{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: grey;
+}
